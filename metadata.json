@@ -1,0 +1,7 @@
+{
+  "name": "Nirmal Swasthya - Rural Healthcare Portal",
+  "description": "Digital public healthcare platform for Government of Maharashtra providing rural clinic locator, low-bandwidth telemedicine, medicine stock tracker, citizen grievances, and ASHA worker portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
